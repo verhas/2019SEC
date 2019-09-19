@@ -1,0 +1,29 @@
+= EPAM 2019 SEC Conference
+Peter Verhas <peter@verhas.com>
+v1.0, 2019-09-21
+:doctype: book
+
+This repository contains the presentation of Peter Verhas for the EPAM 2019 SEC Conference. Although the content is not
+secret or internal, this repository is not purposed as a publication means.
+
+== EPAM SEC
+
+The annual Software Engineering Conference (SEC) is EPAM’s largest technology conference that brings together thousands
+of EPAMers, customers and partners from all over the world to share ideas,building engineering expertise and showcase
+their skills
+
+CONNECTED represents EPAM’s ambition to grow and evolve as a global, transformational company and our broader mission to
+help the world navigate technological change.
+
+== EPAM
+
+Since 1993, EPAM Systems, Inc. (NYSE: EPAM) has leveraged its software engineering expertise to become a leading global
+product development, digital platform engineering, and top digital and product design agency. Through its ‘Engineering
+DNA’ and innovative strategy, consulting, and design capabilities, EPAM works in collaboration with its customers to
+deliver next-gen solutions that turn complex business challenges into real business outcomes. EPAM’s global teams serve
+customers in over 25 countries across North America, Europe, Asia and Australia. EPAM is a recognized market leader in
+multiple categories among top global independent research agencies and was one of only four technology companies to
+appear on Forbes 25 Fastest Growing Public Tech Companies list every year of publication since 2013. Learn more at
+http://www.epam.com/ and follow us on Twitter `@EPAMSYSTEMS` and LinkedIn.
+
+==
